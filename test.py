@@ -2,9 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Various useful functions (work in progress)
-@author: arno
-@Date: Mar 2020
+@Date: Mar 2023
 """
 import numpy as np
 
